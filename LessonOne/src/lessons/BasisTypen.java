@@ -1,4 +1,4 @@
-package lections;
+package lessons;
 
 public class BasisTypen {
 
@@ -24,7 +24,7 @@ public class BasisTypen {
 		System.out.println(z/z2);
 
 		//Übung 5
-
+		
 		
 	}
 
