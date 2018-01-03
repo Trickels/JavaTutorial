@@ -24,7 +24,7 @@ public class BasisTypen {
 		System.out.println(z/z2);
 
 		//Übung 5
-		
+		long l = 22;
 		
 	}
 
