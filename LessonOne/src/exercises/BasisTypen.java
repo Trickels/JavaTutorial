@@ -1,4 +1,4 @@
-package lessons;
+package exercises;
 
 public class BasisTypen {
 
@@ -19,13 +19,23 @@ public class BasisTypen {
 		System.out.println(j);
 		
 		//Übung 4
+		double a = 1/100000000;
+		double b = a*100000000;
+		System.out.println(b==1);
+
+		//Übung 5
+		boolean myBoolean2 = false;
+		System.out.println(!myBoolean2);
+		
+		//Übung 6
+		int k = 42;
+		System.out.println(k%4);
+		
+		
+		//Übung 7
 		int z = 22;
 		int z2 = 0;
 		System.out.println(z/z2);
-
-		//Übung 5
-		long l = 22;
-		
 	}
 
 }
