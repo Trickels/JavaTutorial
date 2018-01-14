@@ -14,7 +14,7 @@ public class StaticMethods {
 	
 		
 		/*
-		 * Übung1: Schreibe eine Methode die jeweils zwei Zahlen miteinander multipliziert. Teste es mit den beiden Arrays.
+		 * Übung1: Schreibe eine Methode die jeweils zwei Zahlen miteinander multipliziert. Nutze nur + und -. Teste es mit den beiden Arrays.
 		 * Multipliziere jeweils die Zahlen welche die gleiche Indexzahl haben und gebe das Ergebnis auf die Konsole aus
 		 * Also: 1 * 3 ; 2 * 5 usw.
 		 */
@@ -27,7 +27,7 @@ public class StaticMethods {
 		 * Übung2: Schreibe eine Methode welche ein int-Array in umgekehrter Reihenfolge wieder zurückgibt und gib das Ergebnis
 		 *  auf die Konsole aus
 		 */
-		
+
 		
 		
 		/*
@@ -39,6 +39,9 @@ public class StaticMethods {
 		 *                                    1 2 1
 		 *                                   1 3 3 1
 		 */
+		
+		
+		
 		
 		
 	}

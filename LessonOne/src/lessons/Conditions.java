@@ -2,7 +2,7 @@ package lessons;
 
 public class Conditions {
 	public static void main(String[] args) {
-		int i = 1;
+		int i = 0;
 		String hello = "Hallo ";
 		if (i == 1) {
 			System.out.println(hello + "Dominik");

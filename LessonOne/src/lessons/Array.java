@@ -12,7 +12,7 @@ public class Array {
 		integerList[4] = 5;
 
 		//Außerhalb des Bereichs
-		integerList[5] = 6;
+//		integerList[5] = 6;
 		
 		int[][] field = new int[5][5];
 		field[0][0] = 1;
