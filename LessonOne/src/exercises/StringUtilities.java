@@ -15,6 +15,10 @@ public class StringUtilities {
 		return result;
 	}
 	
+	public void mytest() {
+		String a = "a";
+	}
+	
 	public String readConsole() {
 		try {
 			BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
