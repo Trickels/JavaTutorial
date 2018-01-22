@@ -17,6 +17,7 @@ public class StringUtilities {
 	
 	public void mytest() {
 		String a = "a"; //domi kann nicht coden
+		//oh doch kann ich
 	}
 	
 	public String readConsole() {
