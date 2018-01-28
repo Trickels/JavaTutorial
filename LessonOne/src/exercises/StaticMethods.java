@@ -43,20 +43,6 @@ public class StaticMethods {
 		System.out.println(newarray[c]);
 		}
 	}
-
-		
-		
-		/*
-		 * Übung3: Schreibe eine Methode, welche dir die Fibonacci Pyramide mit einer angegebenen Höhe leserlich auf die Konsole ausgibt.
-		 * Optional kannst du die Ausgabe noch verschönern.
-		 * 
-		 * Fibonacci Pyramide der Höhe 4:		1
-		 * 									   1 1
-		 *                                    1 2 1
-		 *                                   1 3 3 1
-		 */
-		
-		
 		
 		
 		
